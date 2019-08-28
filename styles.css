@@ -1,0 +1,25 @@
+.right{
+    float:right;
+}
+.left{
+    float:left;
+}
+.tab{
+    position: absolute;
+    left: 150px;
+}
+p + ul {
+    margin-top: -15px;
+}
+p + p {
+    margin-top: -10px;
+}
+p + h1 {
+    margin-bottom: -5px; 
+}
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+  }
