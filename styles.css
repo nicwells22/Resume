@@ -5,8 +5,13 @@
     float:left;
 }
 .tab{
-    position: absolute;
-    left: 150px;
+    position: relative;
+    left: 40px;
+    width: 300px;
+    word-wrap: break-word;
+}
+.school{
+  
 }
 p + ul {
     margin-top: -15px;
@@ -20,6 +25,6 @@ p + h1 {
 body {
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 300px;
+    margin-left: 300px;
   }
